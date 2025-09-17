@@ -20,6 +20,7 @@
 - [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/submissions/1770647623/)
 - [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/submissions/1770653582/)
 - [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/submissions/1770654943/)
+- [1052. Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/submissions/1773701603/)
 
 ## Bit Manipulation
 - [136. Single Number](https://leetcode.com/problems/single-number/submissions/1770648103/)
