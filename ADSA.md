@@ -9,6 +9,9 @@
 
 ## Binary Search
 - [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/submissions/1770646941/)
+- [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
+- [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/1774931098/)
+- [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1774931686/)
 
 ## Two Pointer
 - [15. 3Sum](https://leetcode.com/problems/3sum/submissions/1771105524/)
