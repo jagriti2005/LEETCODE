@@ -12,6 +12,7 @@
 - [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
 - [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/1774931098/)
 - [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1774931686/)
+- [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/1777704034/)
 
 ## Two Pointer
 - [15. 3Sum](https://leetcode.com/problems/3sum/submissions/1771105524/)
