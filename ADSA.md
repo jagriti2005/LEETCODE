@@ -32,3 +32,6 @@
 - [136. Single Number](https://leetcode.com/problems/single-number/submissions/1770648103/)
 - [137. Single Number II](https://leetcode.com/problems/single-number-ii/submissions/1771103509/)
 - [260. Single Number III](https://leetcode.com/problems/single-number-iii/submissions/1771113498/)
+
+## GFG
+- [Implement stack using array](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1)
