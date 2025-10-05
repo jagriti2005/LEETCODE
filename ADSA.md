@@ -35,3 +35,4 @@
 
 ## GFG
 - [Implement stack using array](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1)
+- [Stack using Linked List](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1)
