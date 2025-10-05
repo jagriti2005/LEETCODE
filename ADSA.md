@@ -33,6 +33,9 @@
 - [137. Single Number II](https://leetcode.com/problems/single-number-ii/submissions/1771103509/)
 - [260. Single Number III](https://leetcode.com/problems/single-number-iii/submissions/1771113498/)
 
+## Stack
+- [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/1791766738/)
+
 ## GFG
 - [Implement stack using array](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1)
 - [Stack using Linked List](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1)
