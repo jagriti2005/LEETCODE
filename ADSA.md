@@ -35,6 +35,7 @@
 
 ## Stack
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/1791766738/)
+- [496. Next Greater Elelment I](https://leetcode.com/problems/next-greater-element-i/submissions/1795151584/)
 
 ## GFG
 - [Implement stack using array](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1)
