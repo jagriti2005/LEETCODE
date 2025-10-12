@@ -40,3 +40,7 @@
 ## GFG
 - [Implement stack using array](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1)
 - [Stack using Linked List](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1)
+
+## Binary Tree
+- [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/)
+- [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/1799021117/)
