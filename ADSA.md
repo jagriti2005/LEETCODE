@@ -44,3 +44,5 @@
 ## Binary Tree
 - [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/)
 - [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/1799021117/)
+- [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/)
+- [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/1802263845/)
